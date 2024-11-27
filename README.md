@@ -58,4 +58,4 @@ This repository contains a collection of lab reports demonstrating various algor
 
 1. Clone this repository to your local machine:
    ```bash
-   git clone https://github.com/username/repository-name.git
+   git clone https://github.com/imgrooty/AI_LABS.git
